@@ -38,6 +38,6 @@ The program will ask if you want to continue. Input "y" to continue and "n" to e
 <img src="https://i.imgur.com/54RlaHY.png" height="80%" width="80%" alt="BreakfastCereal"/>
 <br />
 <br />
-That is all.
+
 
 
